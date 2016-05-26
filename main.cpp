@@ -2,5 +2,5 @@
 
  int main()
  {
-     qDebug() << "Hello World number 8";
+     qDebug() << "Hello World number 8 or latest";
  }
