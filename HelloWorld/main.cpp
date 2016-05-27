@@ -2,5 +2,5 @@
 
  int main()
  {
-     qDebug() << "Hello World from HelloWorld directory";
+     qDebug() << "Hello World from HelloWorld directory for dani real";
  }
